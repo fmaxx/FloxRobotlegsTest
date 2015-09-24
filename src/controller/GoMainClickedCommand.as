@@ -26,7 +26,7 @@ public class GoMainClickedCommand implements ICommand {
 
     public function execute():void {
         eventDispatcher.dispatchEvent(new ScreenEvent(ScreenEvent.CHANGE_SCREEN_TO,Screens.MAIN));
-        statsService.sendEvent("go_main_clicked");
+        statsService.sendEvent("went_to_main");
     }
 }
 }
