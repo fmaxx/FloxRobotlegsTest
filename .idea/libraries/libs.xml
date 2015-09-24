@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs" type="flex">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/robotlegs-framework-v2.2.1.swc!/" />
+      <root url="jar://$PROJECT_DIR$/libs/gfx.swc!/" />
+      <root url="jar://$PROJECT_DIR$/libs/Flox-AS3.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
